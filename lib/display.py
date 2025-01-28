@@ -1,5 +1,5 @@
 # 12/29/2018
-# Author: Mohamed
+# Author: Roach
 # Description: Display
 
 from os import system
