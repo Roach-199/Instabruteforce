@@ -1,5 +1,5 @@
 # Date: 12/28/2018
-# Author: Mohamed
+# Author: Roach
 # Description: Browser
 
 from time import time
