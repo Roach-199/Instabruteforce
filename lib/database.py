@@ -1,5 +1,5 @@
 # Date: 05/05/2018
-# Author: Mohamed
+# Author: Roach
 # Description: Session Handler
 
 import json
