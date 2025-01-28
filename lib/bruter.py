@@ -1,5 +1,5 @@
 # Date: 12/28/2018
-# Author: Mohamed
+# Author: Roach
 # Description: Bruter
 
 import queue
